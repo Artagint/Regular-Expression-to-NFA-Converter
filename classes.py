@@ -1,4 +1,3 @@
-# Artem Tagintsev, CS317, 10/15/2024, Project: RE to NFA
 # This file holds the main classes for the NFA and its transitions
 
 # Init the Transition with states and symbol
