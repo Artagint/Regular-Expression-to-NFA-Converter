@@ -1,4 +1,3 @@
-# Artem Tagintsev, CS317, 10/15/2024, Project: RE to NFA
 # This file holds code related to error checking
 import sys
 import os
