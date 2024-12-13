@@ -1,4 +1,3 @@
-# Artem Tagintsev, CS317, 10/15/2024, Project: RE to NFA
 # This file contains the code responsible for handling operations in the stack
 from classes import NFA
 
