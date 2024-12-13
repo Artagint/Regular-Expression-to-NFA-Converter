@@ -1,10 +1,4 @@
-1) Name and Email Address
-
-Name: Artem Tagintsev
-Email: artem.tagintsev@wsu.edu
-
-
-2) List of all files
+1) List of all files
 
 // This is the main file of my program, handles the basic flow of logic
 main.py
@@ -25,21 +19,21 @@ test_input.txt
 test_output_lf.txt
 
 
-3) Compiler/ Interpreter Version
+2) Compiler/ Interpreter Version
 
 Version: python 3.12.3
 -To check the version if anything run the command 'python3 --version'
 
 
-4) Compile Instructions
+3) Compile Instructions
 
 -Compilation isn't necessary for python, just make sure python is installed
 
 
-5) Run Instructions
+4) Run Instructions
 
 -Download and extract the .zip file into a directory on the wsu server Linux lab machine
 -Open a terminal and navitage to that directory which you extracted into
--Unzip the .zip file with this command: 'unzip artem.tagintsev.zip'
+-Unzip the .zip file
 -Run the program whith this specific outline: 'python3 main.py <filename.txt>'
    -Important to note that the only files the program takes are .txt, and exactly 1 file
