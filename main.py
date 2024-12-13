@@ -1,4 +1,3 @@
-# Artem Tagintsev, CS317, 10/15/2024, Project: RE to NFA
 # This is the main file of the program, responsible for the flow and logic outline
 import sys
 from errorCheck import IsValidFile
